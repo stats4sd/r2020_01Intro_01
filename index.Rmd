@@ -306,12 +306,12 @@ A function is an object that applies a particular operation. You can do basic ma
 
 We've already looked at the `c` function and the `class` function - we can use this with any named object in R - in this case it will tell us we have a data frame.
 
-```{r}
+```{r clss,  exercise=TRUE}
 class(airquality)
 ```
 
 But if we tried to use `c()` with the data frame, this is almost certainly not going to be useful, as it effectively 'takes' apart our data frame.
-```{r}
+```{r caq,  exercise=TRUE}
 c(airquality)
 ```
 
