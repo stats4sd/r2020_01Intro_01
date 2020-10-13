@@ -23,8 +23,6 @@ tutorial_options(exercise.timelimit = 60)
 
 ## Welcome
 
-THIS IS A CHANGE
-
 In this tutorial, you will learn go over some of the basic syntax of R. We will look at how to run code, use functions, create objects and produce results.
 
 The topics covered are:
