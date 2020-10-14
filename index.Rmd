@@ -420,16 +420,17 @@ There are lots of resources online for R, again these can be of variable quality
 As mentioned, there are lots of resources online covering similar topics to this first introduction in great detail. A lot of this comprises of things you will learn more about, or only come to realise the usefulness of, once you have started using R more frequently. Here are three suggestions for further reading, graded by difficulty, which will recap some of the same content but in all cases go into a bit more detail in certain areas.
 
 Easy:
-R for Cats
-https://rforcats.net/
+
+<a href="https://rforcats.net/" target="_blank">R for Cats</a>  
 Covers more different types of data structures in R than this introduction, but at a fairly gentle pace
 
 Medium:
-Chapter 4 of "R Programming for Data Science" (R Nuts and Bolts). We've skipped the content which is covered in chapter 3 for now, but we will come back to it later.
-https://bookdown.org/rdpeng/rprogdatascience/r-nuts-and-bolts.html
+
+<a href="https://bookdown.org/rdpeng/rprogdatascience/r-nuts-and-bolts.html" target="_blank">Chapter 4 of "R Programming for Data Science" (R Nuts and Bolts)</a>  
+Chapters 1 & 2 were suggested as pre-course material, so also worth a review. We've skipped the content which is covered in chapter 3 for now, but we will come back to it later.
 
 Hard:
-The 'official' Introduction to R - this goes into a lot of technical detail about different object types, and internal structures within R. More or less everything that you might possibly need to know is covered in this, but lots of it you don't need to know or remember to start your journey into R whilst much of what is mentioned has largely been superseded with useful add on packages.
-https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf
+<a href="https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf" target="_blank">The 'official' Introduction to R </a>. This goes into a lot of technical detail about different object types, and internal structures within R. More or less everything that you might possibly need to know is covered in this, but lots of it you don't need to know or remember to start your journey into R whilst much of what is mentioned has largely been superseded with useful add on packages.
 
+ 
 
