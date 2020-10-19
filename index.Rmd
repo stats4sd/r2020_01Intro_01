@@ -412,7 +412,7 @@ https://www.google.co.uk/search?q=How+do+I+calculate+a+mean+in+R
 
 At no point when programming are you ever expected to remember everything off the top of your head - refer back to previous examples you have worked on, or search for help, whenever you do get stuck. And please do ask us for help at any point in the course if you are not clear on any of the points, or become stuck on the exercises.
 
-There are lots of resources online for R, again these can be of variable quality or of differing usefulness depending on your knowledge and experience levels. Check the resources page of the course (CROSS LINK) for some of the pages that we think are the most helpful.
+There are lots of resources online for R, again these can be of variable quality or of differing usefulness depending on your knowledge and experience levels. Throughout the course we will try to highlight specific resources that we think are useful to help you learn.
 
 
 ## Resources
